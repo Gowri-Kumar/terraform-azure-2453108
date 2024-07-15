@@ -1,4 +1,4 @@
-# Introduction to Terraform on Azure
+# Introduction to Terraform on Azure.
 This is the repository for the LinkedIn Learning course Introduction to Terraform on Azure. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Introduction to Terraform on Azure][lil-thumbnail-url] 
